@@ -2,7 +2,7 @@
 
 **Data Analyst | BS Mathematics | Python · Excel · Power BI · SQL**
 
-📍 Abbottabad, Pakistan &nbsp;|&nbsp; 📧 azmattanveer409@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](www.linkedin.com/in/azmat-tanveer-038410404)
+📍 Abbottabad, Pakistan &nbsp;|&nbsp; 📧 azmattanveer409@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](www.linkedin.com/in/azmat-tanveer)
 
 ---
 
