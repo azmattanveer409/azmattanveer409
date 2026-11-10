@@ -1,95 +1,86 @@
-# Hi, I'm Azmat Tanveer 👋
+<div align="center">
 
-**Data Analyst | BS Mathematics | Python · Excel · Power BI · SQL**
+# 👋 Hi, I'm Azmat Tanveer
 
-📍 Abbottabad, Pakistan &nbsp;|&nbsp; 📧 azmattanveer409@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](www.linkedin.com/in/azmat-tanveer)
+### Mathematics Graduate · Machine Learning · Statistics · Data Science
 
----
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-orange?logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-learning-red?logo=pytorch&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-MySQL-informational)
+![Power BI](https://img.shields.io/badge/Power%20BI-dashboards-yellow)
+![Location](https://img.shields.io/badge/Based%20in-Abbottabad%2C%20Pakistan-green)
 
-## 👨‍💻 About Me
-
-I'm a Mathematics graduate (GPA 3.5/4.0, AUST) passionate about turning raw data into actionable business insights. I work as a **Data Analyst** and **Subject Specialist (SS Mathematics )**, and I build end-to-end analytics projects covering EDA, machine learning, and interactive Power BI dashboards.
-
-- 🏆 **1st Position in District Abbottabad** — PTC Competitive Hiring (PST)
-- 📊 Presented research at **ICST-25 International Conference on Science & Technology**
-- 📜 **20+ certifications** in Data Analytics, Python, SQL, Power BI, and Machine Learning
-- 🌍 Open to **remote opportunities** worldwide
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🎓 🎓 About me
 
-| Category | Tools |
-|---|---|
-| **Languages** | Python, SQL |
-| **Libraries** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn |
-| **BI & Reporting** | Power BI, Excel (Pivot Tables, Power Query, DAX) |
-| **Database** | MySQL |
-| **ML Techniques** | EDA, Feature Engineering, Random Forest, Logistic Regression, SMOTE |
+I hold a BS in Mathematics (CGPA 3.50/4.00) from Abbottabad University of Science and Technology (AUST), Pakistan. My work sits between mathematics, machine learning and data analysis: I like grounding practical models in mathematical reasoning instead of treating them as black boxes.
 
----
+My academic and research interests span machine learning, artificial intelligence, data science, statistical learning, mathematical modelling and optimization. I am particularly interested in applying mathematical and computational methods to develop data-driven solutions to real-world problems.
 
-## 📂 Featured Projects
+## 🔭 Research interests
 
-### 🔴 [Financial Fraud Detection & Risk Analytics System](https://github.com/azmattanveer409/Financial-Fraud-Detection-Risk-Analytics-System-using-Machine-Learning)
-Detected fraud in **6M+ financial transactions** using Python. Custom feature engineering (balance error ratios, velocity flags), SMOTE for class imbalance, Random Forest & Logistic Regression evaluated on F1-Score & ROC-AUC.
-`Python` `Machine Learning` `SMOTE` `Random Forest` `Power BI`
+- Machine Learning and Artificial Intelligence
+- Data Science and Predictive Analytics
+- Statistical Learning and Applied Statistics
+- Mathematical Modelling and Computational Mathematics
+- Optimizations and Operations Research
+- Deep Learning and Neural Networks
+- Computer Vision and Image Processing
+- Data-Driven Decision Making and Intelligent Systems
+- 
+## ⭐ Featured project
 
----
+### 🧠 [Bias-Aware Multi-View Complementary Label Learning](https://github.com/azmattanveer409/bias-aware-multiview-learning)
 
-### 🛒 [E-Commerce Sales, Profit & Operational Analysis](https://github.com/azmattanveer409/E-commerce-sales-Profit-operational-analysis-)
-End-to-end analysis of e-commerce sales and profitability. Power BI dashboard with dynamic slicers uncovered hidden margin losses and regional performance gaps.
-`Python` `Excel` `Power BI` `Pandas` `Seaborn`
+An independent research implementation on **CIFAR-10** comparing naive, bias-aware (transition-matrix) and supervised-reference learners, using **CNN, HOG and RGB colour-histogram** views.
 
----
+| Model | Test accuracy |
+|---|---:|
+| Supervised multi-view (reference) | 68.10% |
+| Bias-aware multi-view | 65.45% |
+| Naive multi-view | 20.95% |
 
-### 🏷️ [Monthly SKU Profit & Pricing Analysis](https://github.com/azmattanveer409/Monthly-SKU-Profit-Pricing-Analysis-)
-SKU-level margin and pricing consistency analysis across platforms. Price Band dashboard directly informed client repricing strategy.
-`Excel` `Python` `Power BI` `Business Intelligence`
+*Initial single-run results (5 epochs, synthetic labels with known bias). Multiple seeds and bias levels are planned. Not a peer-reviewed publication.*
 
----
+## 📂 Other projects
 
-### 🏪 [James Superstore — Sales & Customer Insights](https://github.com/azmattanveer409/james_Superstore-sales-and-customers-insights)
-Analysed a 26-column dataset across segments, regions, and categories. KPI dashboards revealed that the top-spending customer segment had the **lowest net profit** due to high return rates.
-`Python` `Excel` `Pandas` `Power BI`
+- **Financial fraud detection:** 6M+ transactions, feature engineering, SMOTE, Random Forest, evaluated with F1-score and ROC-AUC, Power BI dashboard.
+- **Customer churn prediction:** end-to-end ML pipeline with feature-importance analysis.
+- **Sales forecasting and analysis:** 189,000+ records in Python.
+- **Superstore, retail and SKU pricing analyses:** Excel, Python and Power BI dashboards.
 
----
+## 🎤 Research presentation
 
-### 📊 [Online Retail Sales Performance Dashboard](https://github.com/azmattanveer409/Online-Retail-Sales-Performance-Analysis)
-Excel-native interactive dashboard on **31,000+ transactions** — customer demographics, channel performance, and revenue trends for non-technical business users.
-`Excel` `Power BI` `Dashboard` `Data Visualization`
+**ICST-25 (2025), poster:** *Data-Driven Decision Making: A Hybrid Approach Using Exploratory Data Analysis, Machine Learning, and Operational Research in Python.* (Conference poster, not a journal publication.)
 
----
+## 🛠️ Skills
 
-### 📉 [Smart Customer Churn Prediction System](https://github.com/azmattanveer409/Smart-Customer-Churn-Prediction-System)
-End-to-end ML pipeline: data cleaning → EDA → feature engineering → Random Forest model. Feature importance identified **inactivity and complaint history** as top churn drivers.
-`Python` `Scikit-learn` `Random Forest` `Classification`
+**Programming and data:** Python · Pandas · NumPy · scikit-learn · scikit-image · Matplotlib · Seaborn · SQL / MySQL · Git
+**Machine learning:** EDA · feature engineering · classification · class-imbalance handling · model evaluation
+**Tools:** Power BI · Excel · Google Colab
+**Early stage:** PyTorch, CNNs, computer vision
 
----
+## 💼 Experience
 
-## 📈 GitHub Stats
+- **Mathematics Subject Specialist**, Government Higher Secondary School (DSS) Majhuhan, Abbottabad (Aug 2025 – present)
+- **Data Analyst**, Zynex Solutions, remote (Jul 2025 – Jan 2026)
 
-![Azmat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azmattanveer409&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azmattanveer409&layout=compact&theme=tokyonight&hide_border=true)
+## 🏆 Highlights
 
----
+- 🥇 First position in District Abbottabad, PTC recruitment examination
+- 🎓 Organised a 3-day workshop, *Data-Driven Decision Making with Python*, at AUST (Apr 2025)
 
-## 📜 Certifications (Selected)
-- Data Analytics with Python — IBM / Coursera
-- Excel Essential for Data Analyst — IBM / Coursera
-- Advancement in Power BI — Coursera
-- SQL for Data Analytics — Simplilearn
-- Introduction to Applied Data Science with Python — Simplilearn
-- Python for Everyone — Udemy
+## 📫 Connect
 
-*20+ total certifications across Python, SQL, Power BI, Excel, and Machine Learning*
+- GitHub: [@azmattanveer409](https://github.com/azmattanveer409)
+- Email: azmattanveer409@gmail.com
 
----
+<div align="center">
 
-## 🤝 Let's Connect
+*Currently learning: image processing, deep learning for vision, and reproducible research practice.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/azmat-tanveer)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azmattanveer409)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azmattanveer409@gmail.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azmattanveer06@gmail.com)
-
+</div>
